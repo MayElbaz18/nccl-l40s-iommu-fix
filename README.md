@@ -79,3 +79,7 @@ sudo grubby --update-kernel=ALL --args="amd_iommu=on iommu=pt"
 sudo reboot
 ```
 ## ⚠️ Reboot Required
+
+**Additional Documentation**
+```markdown
+- 🧰 [Scripts Usage Guide](scripts/README.md)
