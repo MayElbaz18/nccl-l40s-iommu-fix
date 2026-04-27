@@ -82,5 +82,5 @@ sudo reboot
 
 **Additional Documentation**
 ```markdown
-- 🧰 [Scripts Usage Guide](scripts/README.md)
+- 🧰 [Scripts Usage Guide](./scripts/README.md)
 ```
