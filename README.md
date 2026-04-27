@@ -80,7 +80,6 @@ sudo reboot
 ```
 ## ⚠️ Reboot Required
 
-**Additional Documentation**
-```markdown
+## 📌 Additional Documentation
+
 - 🧰 [Scripts Usage Guide](./scripts/README.md)
-```
