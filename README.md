@@ -1,6 +1,7 @@
 # 🚀 Fixing NCCL Hangs on NVIDIA L40S GPUs
 
 > A deep dive into diagnosing and resolving NCCL deadlocks caused by IOMMU interference in PCIe-based GPU systems.
+
 > ⚠️ Affects PCIe-based GPUs (e.g., L40S) — does NOT typically occur on NVLink systems (A100/H100)
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
