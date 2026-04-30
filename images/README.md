@@ -1,5 +1,5 @@
 ### Before Fix (Real Output)
-![hang](./images/hang.png)
+![hang](./hang.png)
 
 ### After Fix (Real Output)
-![success](./images/success.png)
+![success](./success.png)
