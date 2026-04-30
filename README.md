@@ -80,6 +80,12 @@ sudo reboot
 ```
 ## ⚠️ Reboot Required
 
+### Before Fix (Real Output)
+![hang](./images//hang.png)
+
+### After Fix (Real Output)
+![success](./images//success.png)
+
 ## 📌 Additional Documentation
 
 - 🧰 [Scripts Usage Guide](./scripts/README.md)
